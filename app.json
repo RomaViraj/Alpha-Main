@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Alphabiosolutions-2",
+    "slug": "Alphabiosolutions-2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.namankrishna.Alphabiosolutions2"
+    },
+    "android": {
+      "package": "com.namankrishna.Alphabiosolutions2"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
